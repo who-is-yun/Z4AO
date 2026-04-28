@@ -7,7 +7,7 @@ Someone who proposed a signature design for #CZ
 - Sam Altman
 https://x.com/who_is_yun/status/2049037870007251215?s=46
 
-- Peter Schi
+- Peter Schiff
 https://x.com/who_is_yun/status/2048892361334558897?s=46
 
 - Alien https://x.com/Who_is_Yun/status/2048594079869767817?s=20

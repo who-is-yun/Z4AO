@@ -51,5 +51,8 @@ https://x.com/Who_is_Yun/status/2047501206243975672?s=20
 
 # CZ’s Book Story
 
+- Alien King<br>
+https://x.com/who_is_yun/status/2049361094876205373?s=46
+
 - Mars rover<br>
 https://x.com/Who_is_Yun/status/2049351743868375497?s=20

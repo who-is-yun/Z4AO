@@ -3,9 +3,7 @@
 I admire #CZ and #Binance<br>
 I created a signature design for #CZ<br>
 I proposed a signature design for #CZ<br>
-I hope it gets chosen by #CZ<br>
-
-If you choose my signature, I want to build a #BNBChain app using it.<br>
+I hope my signature design will be chosen by CZ<br>
 
 # CZ’s Book Gift Challenge List
 

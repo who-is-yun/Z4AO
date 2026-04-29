@@ -5,7 +5,7 @@ I created a signature design for #CZ<br>
 I proposed a signature design for #CZ<br>
 I hope it gets chosen by #CZ<br>
 
-If you choose my signature, I plan to build #BNBChain app.<br>
+If my signature design is selected, I will plan and develop a great #BNBChain app using it.<br>
 
 # CZ’s Book Gift Challenge List
 

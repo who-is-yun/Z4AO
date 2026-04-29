@@ -1,8 +1,14 @@
-#Z4AO
+#ChangpengZ4ao
 
-Someone who proposed a signature design for #CZ
+I admire #CZ and #Binance
+I created a signature design for #CZ
+I proposed a signature design for #CZ
+I hope it gets chosen by #CZ
 
 #CZ’s Book Gift Challenge List
+
+- The Teutuls
+https://x.com/Who_is_Yun/status/2049277994246750324?s=20
 
 - Sam Altman
 https://x.com/who_is_yun/status/2049037870007251215?s=46

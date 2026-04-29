@@ -51,6 +51,9 @@ https://x.com/Who_is_Yun/status/2047501206243975672?s=20
 
 # CZ’s Book Story
 
+- He Yi<br>
+https://x.com/Who_is_Yun/status/2049469962440564747?s=20
+
 - Alien King<br>
 https://x.com/who_is_yun/status/2049361094876205373?s=46
 

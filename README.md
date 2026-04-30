@@ -64,5 +64,13 @@ https://x.com/Who_is_Yun/status/2049469962440564747?s=20
 - <img src="Thumbnails/AlienKing.png" width="80"/> Alien King<br>
 https://x.com/who_is_yun/status/2049361094876205373?s=46
 
+- <img src="Thumbnails/AlienKing2.png" width="80"/> Alien King2<br>
+https://x.com/Who_is_Yun/status/2049729488469237934?s=20
+
 - <img src="Thumbnails/MarsRover.png" width="80"/> Mars rover<br>
 https://x.com/Who_is_Yun/status/2049351743868375497?s=20
+
+# CZ’s Shorts
+
+- <img src="Thumbnails/CzBook2.png" width="80"/> CZ's Book<br>
+https://x.com/Who_is_Yun/status/2049696702781964593?s=20

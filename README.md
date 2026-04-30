@@ -1,9 +1,13 @@
 # ChangpengZ4ao
 
+<img src="Resources/z4ao.gif" width="300"/>
+
 I admire #CZ and #Binance<br>
 I created a signature design for #CZ<br>
 I proposed a signature design for #CZ<br>
 I hope my signature design will be chosen by #CZ<br>
+
+<img src="Resources/z4aox.gif" width="500"/>
 
 # CZ’s Book Gift Challenge List
 

@@ -11,6 +11,9 @@ I hope my signature design will be chosen by #CZ<br>
 
 # CZ’s Book Gift Challenge List
 
+- <img src="Thumbnails/WarrenBuffett.png" width="80"/> Warren Buffett<br>
+https://x.com/Who_is_Yun/status/2049684216833810561?s=20
+
 - <img src="Thumbnails/TheTeutuls.png" width="80"/> The Teutuls<br>
 https://x.com/Who_is_Yun/status/2049277994246750324?s=20
 

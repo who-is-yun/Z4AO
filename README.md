@@ -61,6 +61,9 @@ https://x.com/Who_is_Yun/status/2047501206243975672?s=20
 - <img src="Thumbnails/HeYi.png" width="80"/> He Yi<br>
 https://x.com/Who_is_Yun/status/2049469962440564747?s=20
 
+- <img src="Thumbnails/SatoshiNakamoto2.png" width="80"/> Satoshi Nakamoto<br>
+https://x.com/Who_is_Yun/status/2049998155467624459?s=20
+
 - <img src="Thumbnails/AlienKing.png" width="80"/> Alien King<br>
 https://x.com/who_is_yun/status/2049361094876205373?s=46
 
@@ -74,3 +77,6 @@ https://x.com/Who_is_Yun/status/2049351743868375497?s=20
 
 - <img src="Thumbnails/CzBook2.png" width="80"/> CZ's Book<br>
 https://x.com/Who_is_Yun/status/2049696702781964593?s=20
+
+- <img src="Thumbnails/CzBook.png" width="80"/> Cute CZ<br>
+https://x.com/Who_is_Yun/status/2049797059944030309?s=20

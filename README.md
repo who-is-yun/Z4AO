@@ -64,6 +64,9 @@ https://x.com/Who_is_Yun/status/2049469962440564747?s=20
 - <img src="Thumbnails/SatoshiNakamoto2.png" width="80"/> Satoshi Nakamoto<br>
 https://x.com/Who_is_Yun/status/2049998155467624459?s=20
 
+- <img src="Thumbnails/Moon.png" width="80"/> Neil Armstrong<br>
+https://x.com/who_is_yun/status/2050146803262345613?s=46
+
 - <img src="Thumbnails/AlienKing.png" width="80"/> Alien King<br>
 https://x.com/who_is_yun/status/2049361094876205373?s=46
 

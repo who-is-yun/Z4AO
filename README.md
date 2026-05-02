@@ -14,6 +14,9 @@ https://x.com/Who_is_Yun/status/2050350805967135167?s=20
 - <img src="Thumbnails/Trailer2.png" width="80"/> CZ’s Portal<br>
 https://x.com/Who_is_Yun/status/2050404355980034432?s=20
 
+- <img src="Thumbnails/Trailer3.png" width="80"/> CZ by the window<br>
+https://x.com/Who_is_Yun/status/2050505885760540698?s=20
+
 # CZ’s Book Gift Challenge List
 
 - <img src="Thumbnails/WarrenBuffett.png" width="80"/> Warren Buffett<br>

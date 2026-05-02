@@ -6,6 +6,14 @@ I created a signature design for CZ and proposed it to him. If I get selected, I
 
 <img src="Resources/z4aox.gif" width="500"/>
 
+# CZ Signing Event Trailers
+
+- <img src="Thumbnails/Trailer1.png" width="80"/> Dark CZ<br>
+https://x.com/Who_is_Yun/status/2050350805967135167?s=20
+
+- <img src="Thumbnails/Trailer2.png" width="80"/> CZ’s Portal<br>
+https://x.com/Who_is_Yun/status/2050404355980034432?s=20
+
 # CZ’s Book Gift Challenge List
 
 - <img src="Thumbnails/WarrenBuffett.png" width="80"/> Warren Buffett<br>

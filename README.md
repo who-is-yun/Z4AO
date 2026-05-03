@@ -18,7 +18,10 @@ https://x.com/Who_is_Yun/status/2050404355980034432?s=20
 https://x.com/Who_is_Yun/status/2050505885760540698?s=20
 
 - <img src="Thumbnails/Trailer4.png" width="80"/> CZ’s balloon<br>
-https://x.com/Who_is_Yun/status/2050573747422425263?s=20
+https://x.com/Who_is_Yun/status/2050573747422425263?s=r20
+
+- <img src="Thumbnails/Trailer5.png" width="80"/> CZ in the Car<br>
+https://x.com/who_is_yun/status/2050871563923366376?s=46
 
 # CZ’s Book Gift Challenge List
 
